@@ -19,7 +19,8 @@ int main(){
         wait(NULL);
         printf("This process is parent process pid : %d\n", pid);
     }
-        
+    
     printf("process exit\n");
+    printf("vim test\n");
     return 0;
 }
